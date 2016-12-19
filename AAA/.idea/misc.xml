@@ -61,6 +61,7 @@
   </component>
   <component name="masterDetails">
     <states>
+<<<<<<< HEAD
       <state key="Copyright.UI">
         <settings>
           <splitter-proportions>
@@ -72,6 +73,8 @@
           </splitter-proportions>
         </settings>
       </state>
+=======
+>>>>>>> feature/董世鹏的任务
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
